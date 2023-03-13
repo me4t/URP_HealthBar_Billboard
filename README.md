@@ -1,2 +1,2 @@
 # URP_HealthBar_Billboard
-Optimized health bar billboard shader for srp and urp, gpu instancing compatible
+Optimized health bar billboard shader  urp, gpu instancing compatible
